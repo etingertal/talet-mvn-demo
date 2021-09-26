@@ -1,3 +1,3 @@
-# Read Me First
+# talet-mvn-demo
 
 This is TalE's demo project
